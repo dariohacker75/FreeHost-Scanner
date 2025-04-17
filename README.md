@@ -1,3 +1,4 @@
+<img src="dariohacker.png" alt="Imagem">
 # FreeHost Scanner
 
 Script em Bash para Termux que scanneia vários hosts simultaneamente e verifica se fornecem internet grátis (respostas válidas).
