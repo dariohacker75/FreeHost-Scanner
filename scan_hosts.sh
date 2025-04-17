@@ -2,12 +2,11 @@
 
 # Arte do Dario Hacker
 clear
-echo "=========================================="
+echo "==================🌍========================"
 echo "       SCRIPT SCANNER DE HOSTS"
 echo "           by DARIO HACKER"
 echo "Entre no Canal do Telegram: t.me/dariohacker75
-echo "=========================================="
-echo ""
+echo "==================🌍========================"
 
 # Verifica se o arquivo hosts.txt existe
 if [ ! -f hosts.txt ]; then
