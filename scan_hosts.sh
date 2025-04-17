@@ -5,6 +5,7 @@ clear
 echo "=========================================="
 echo "       SCRIPT SCANNER DE HOSTS"
 echo "           by DARIO HACKER"
+echo "Entre no Canal do Telegram: t.me/dariohacker75
 echo "=========================================="
 echo ""
 
@@ -36,4 +37,4 @@ done
 
 wait
 echo ""
-echo "Scan finalizado! Resultados guardados em hosts_validos.txt"
+echo "Scan finalizado!"
